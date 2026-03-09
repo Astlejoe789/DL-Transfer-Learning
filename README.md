@@ -291,7 +291,3 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ### Result:
 This program has been executed successfully.
-
-
-## RESULT
-Include your result here
