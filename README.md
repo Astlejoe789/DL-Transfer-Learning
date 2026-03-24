@@ -4,7 +4,13 @@
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
 ## Problem Statement and Dataset
-Include the problem statement and Dataset
+
+The task is to build an image classification model using transfer learning. Instead of training a model from scratch, a pre-trained model (VGG19) is used to learn and classify images efficiently.
+
+The model should take images from the given dataset and correctly classify them into their respective categories. It should also be able to predict the class of new images with good accuracy
+### Dataset
+
+The dataset consists of images organized into different folders for training and testing. Each folder represents a class, and the model learns to distinguish between these classes using the images.
 
 
 ## Neural Network Model
