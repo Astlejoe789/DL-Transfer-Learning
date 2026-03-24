@@ -11,6 +11,7 @@ The model should take images from the given dataset and correctly classify them 
 ### Dataset
 
 The dataset consists of images organized into different folders for training and testing. Each folder represents a class, and the model learns to distinguish between these classes using the images.
+<img width="1058" height="197" alt="image" src="https://github.com/user-attachments/assets/b27a81ef-812d-47f3-9152-cb83df7e74a5" />
 
 
 ## Neural Network Model
